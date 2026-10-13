@@ -1,0 +1,3 @@
+Scene generated successfully: Assets/Scenes/KaohsiungHarbor.unity
+Judgment boundary checks: PASS
+Objects: 1326

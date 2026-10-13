@@ -1,0 +1,2 @@
+PASS: full 64-note autoplay. Hits=64, Misses=0, Score=13825
+Restart state: PASS
